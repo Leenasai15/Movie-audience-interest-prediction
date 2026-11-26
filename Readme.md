@@ -54,5 +54,5 @@ Python, pandas, NumPy, Matplotlib, Seaborn, NLTK VADER, scikit-learn, Google Col
 ## Data
 The input data comes from TMDB (https://www.themoviedb.org): movie metadata and user reviews.
 ## Power BI Dashboard
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Dashboard.png.png)
 
