@@ -54,4 +54,4 @@ Python, pandas, NumPy, Matplotlib, Seaborn, NLTK VADER, scikit-learn, Google Col
 
 ## Data
 The input data comes from TMDB (https://www.themoviedb.org): movie metadata and user reviews.
-The dataset files are included in this repository for reproducibility.
+
