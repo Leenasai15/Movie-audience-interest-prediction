@@ -55,4 +55,6 @@ Python, pandas, NumPy, Matplotlib, Seaborn, NLTK VADER, scikit-learn, Google Col
 The input data comes from TMDB (https://www.themoviedb.org): movie metadata and user reviews.
 ## Power BI Dashboard
 ![Power BI Dashboard](Dashboard.png.png)
+## Blog
+Read the full write-up of this project: [Project blog](https://medium.com/@leenasaimuchu/the-comparative-analysis-of-machine-learning-algorithms-for-prediction-of-audience-interest-based-ebb917e6cdb7?sharedUserId=leenasaimuchu)
 
