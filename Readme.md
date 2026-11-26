@@ -39,8 +39,7 @@ expected. Future work is to test on an independent target such as box office.
 - movies.csv, reviews.csv, genres.csv, cast.csv, crew.csv : input dataset (TMDB)
 - final_master_dataset.csv : final data with sentiment, scores and categories
 - review_sentiment_scores.csv : VADER score for every review
-- "model_metrics.csv", "classification_report_*.csv", "confusion_matrix_*.csv",
-  "feature_importance.csv", "test_predictions.csv" : model results
+- model_metrics.csv, classification_report files (one per model), confusion_matrix files (one per model), feature_importance.csv, test_predictions.csv : model results
 - *.png : charts (interest distribution, sentiment distribution, model comparison,
   confusion matrices, feature importance)
 
